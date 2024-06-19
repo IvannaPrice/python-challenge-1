@@ -1,4 +1,5 @@
 # python-challenge-1
+"Updated README file for homework submission"
 # Menu dictionary
 menu = {
     "Snacks": {
